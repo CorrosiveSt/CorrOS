@@ -9,5 +9,3 @@ class MyClient(discord.Client):
 
 client = MyClient()
 client.run('OTcwODk4MjcyNDg5MTc3MTc4.YnCpeg.rqqYNLWdrZSqGaJxBXI6Xq6aFa4')
-
-// Add git commit
